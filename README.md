@@ -1,2 +1,70 @@
-# study-catalogue
-List of all Computer Science topics, books and articles which I look forward to Study.
+# Study Catalogue
+
+It's always helpful to have a complete list of subjects, topics, articles, books, links etc. at one place which I need to study either for interview or just to be a better software engineer in my career. This list is not complete and will grow as soon as I will come across to new things of the world of Computers more and more. But this will be a centralized place where I can track and log every single item about my learning so that I can come back here again in future to revisit and revise quickly.
+
+## Topics
+- **Data Structures**
+    -   Array
+    -   Stack
+    -   Queue
+    -   Linked List
+    -   Hash Table
+    -   Heap
+    -   Tree
+        -   Binary Tree
+        -   Binary Search Tree
+        -   Red-Black Tree
+    -   Graph
+    -   Trie  
+- **Algorithms**
+    -   Sort
+        -   Bubble Sort
+        -   Selection Sort
+        -   Insertion Sort
+        -   Merge Sort
+        -   Quick Sort
+    -   Search
+        -   Linear Search
+        -   Binary Search
+    -   Graph Traversal
+        -   DFS
+        -   BFS
+- **Java**
+    -  OOP
+        -   Abstraction
+        -   Polymorphism
+            -  Compiletime (Overloading)
+            -  Runtime (Overriding)
+        -   Inheritance
+        -   Encapsulation
+    -  Keywords
+        -   final
+        -   static
+    -  Access Modifiers
+        -   Default
+        -   Protected
+        -   Private
+        -   Public
+    -  Comparator vs Comparable
+    -  Collection Framework
+        -   List
+            -  ArrayList
+        -   Set
+            -  HashSet
+            -  TreeSet
+        -   Map
+            -  HashMap
+            -  LinkedHashMap
+    -  Exception Handling
+    -  Thread
+    -  Garbage Collection
+    -  Best Practices
+        -   [Composition over Inheritance](https://stackoverflow.com/questions/49002/prefer-composition-over-inheritance) 
+        -   [SOLID Principles](https://www.baeldung.com/solid-principles)
+    -  Books 
+        -  Effective Java
+        -  Java Concurrency In Practice
+        -  Clean Code
+- **System Design**
+    -  [What is 'System Design'?](https://medium.com/the-andela-way/system-design-in-software-development-f360ce6fcbb9)
+    
